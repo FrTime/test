@@ -1,1 +1,2 @@
 prod.env merge=prod
+.gitattributes merge=prod
