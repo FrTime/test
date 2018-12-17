@@ -1,1 +1,2 @@
 dev.env merge=dev
+.gitattributes merge=dev
